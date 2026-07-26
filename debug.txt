@@ -1,0 +1,56 @@
+
+===== FICHE 1 : https://www.zooplus.fr/shop/chiens/complements_alimentaires_chien/mp_labo/9980012702 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+
+===== FICHE 2 : https://www.zooplus.fr/shop/chiens/friandises_chien/petites_friandises/9980011312 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+
+===== FICHE 3 : https://www.zooplus.fr/shop/chiens/boites_sachets_barquettes_chien/fleischeslust/9980008296 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{\"targetLink\":\"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg\",\"linkAriaLabel\":\"Découvrez les offres Royal Canin\",\"desktopImage\":\"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg\",\"desktopImageAltText\":\"20% de réduction sur les petits sacs\",\"mobileImage\"
+
+===== FICHE 4 : https://www.zooplus.fr/shop/chiens/croquettes_chien/royal_canin_veterinary_diet/reins_voies_urinaires_chien_croquettes_royal_canin/2557030 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{\"targetLink\":\"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg\",\"linkAriaLabel\":\"Découvrez les offres Royal Canin\",\"desktopImage\":\"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg\",\"desktopImageAltText\":\"20% de réduction sur les petits sacs\",\"mobileImage\"
+
+===== FICHE 5 : https://www.zooplus.fr/shop/chiens/friandises_chien/chiens_ages/9980012296 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+
+===== FICHE 6 : https://www.zooplus.fr/shop/chiens/friandises_chien/friandises_sans_cereales_chien/9980062285 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{\"targetLink\":\"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg\",\"linkAriaLabel\":\"Découvrez les offres Royal Canin\",\"desktopImage\":\"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg\",\"desktopImageAltText\":\"20% de réduction sur les petits sacs\",\"mobileImage\"
+
+===== FICHE 7 : https://www.zooplus.fr/shop/chiens/complements_alimentaires_chien/luposan_complements_alimentaires_chien/complement_chien_luposan/1373851 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+
+===== FICHE 8 : https://www.zooplus.fr/shop/chiens/friandises_chien/9980010527 =====
+[valeurs] {}
+[bloc analytique]
+
+[json]
+{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
