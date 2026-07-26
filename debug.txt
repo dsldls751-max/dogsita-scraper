@@ -1,56 +1,97 @@
 
-===== FICHE 1 : https://www.zooplus.fr/shop/chiens/complements_alimentaires_chien/mp_labo/9980012702 =====
-[valeurs] {}
-[bloc analytique]
+===== FICHE 1 =====
+https://www.zooplus.fr/shop/chiens/pathologies_canines/croquettes_boites_chien_sterilise_castre/9980041672
+taille body: 8412 | contient 'protéine': True | 'constituant': False | 'composition': True
+valeurs: {}
+extrait autour nutrition:
+(rien trouvé)
 
-[json]
-{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+===== FICHE 2 =====
+https://www.zooplus.fr/shop/chiens/friandises_chien/friandises_sans_cereales_chien/9980062320
+taille body: 16604 | contient 'protéine': True | 'constituant': False | 'composition': False
+valeurs: {}
+extrait autour nutrition:
+(rien trouvé)
 
-===== FICHE 2 : https://www.zooplus.fr/shop/chiens/friandises_chien/petites_friandises/9980011312 =====
-[valeurs] {}
-[bloc analytique]
+===== FICHE 3 =====
+https://www.zooplus.fr/shop/chiens/friandises_chien/chiens_ages/9980012265
+taille body: 10300 | contient 'protéine': True | 'constituant': False | 'composition': True
+valeurs: {}
+extrait autour nutrition:
+(rien trouvé)
 
-[json]
-{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+===== FICHE 4 =====
+https://www.zooplus.fr/shop/chiens/friandises_chien/friandises_sans_cereales_chien/9980062238
+taille body: 16604 | contient 'protéine': True | 'constituant': False | 'composition': False
+valeurs: {}
+extrait autour nutrition:
+(rien trouvé)
 
-===== FICHE 3 : https://www.zooplus.fr/shop/chiens/boites_sachets_barquettes_chien/fleischeslust/9980008296 =====
-[valeurs] {}
-[bloc analytique]
+===== FICHE 5 =====
+https://www.zooplus.fr/shop/chiens/croquettes_chien/adulte/9980002969
+taille body: 11076 | contient 'protéine': True | 'constituant': False | 'composition': True
+valeurs: {}
+extrait autour nutrition:
+vez un avis
+Croquettes hypoallergéniques sans céréales avec protéines d'insectes pour les chiens souffrant d'allergies et d'intolérances. Facile à digérer et respectueux de l'environnement.Plus d'informations...
+Choisir un article (2 variantes)
+ entoVITAL DOG HYPOALLERGENIC pour chiens
+9980002969.2
+29,90 €
+9,97 € / kg
+Ajouter au panier
+Ajouter au panier
 
-[json]
-{\"targetLink\":\"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg\",\"linkAriaLabel\":\"Découvrez les offres Royal Canin\",\"desktopImage\":\"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg\",\"desktopImageAltText\":\"20% de réduction sur les petits sacs\",\"mobileImage\"
+Vendu et expédié par notre partenaire: HEROSAN healthcare gmbh
 
-===== FICHE 4 : https://www.zooplus.fr/shop/chiens/croquettes_chien/royal_canin_veterinary_diet/reins_voies_urinaires_chien_croquettes_royal_canin/2557030 =====
-[valeurs] {}
-[bloc analytique]
+Livraison estimée : 2-5 jours ouvrés. Lire la suite
+Conditions de retour Lire la suite
+Tous les prix sont TTC. Des frais de livraison supplémentaires peuvent s’appliquer.
+Articles qui pourraient vous intéresser
+Skip Articles qui pourraient
 
-[json]
-{\"targetLink\":\"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg\",\"linkAriaLabel\":\"Découvrez les offres Royal Canin\",\"desktopImage\":\"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg\",\"desktopImageAltText\":\"20% de réduction sur les petits sacs\",\"mobileImage\"
+===== FICHE 6 =====
+https://www.zooplus.fr/shop/chiens/croquettes_chien/adulte/9980063654
+taille body: 9574 | contient 'protéine': True | 'constituant': False | 'composition': True
+valeurs: {}
+extrait autour nutrition:
+s petits chiens (5–10 kg), ce coffret propose une source de protéines d’origine marine et des mâchouilles enrichies en huile de saumon. Origine : Allemagne. Poids total du colis : 2.5 kg.
+Avantages du produit
+Wildfang® nourriture sèche sans céréales au thon | 2kg
+Wildfang® Snacks avec 80% de poisson | 100g
+Wildfang® Bâtonnet à mâcher en bois de caféier, format huile de saumon.
+Wildfang® Bois de cerf rouge avec huile de saumon
+Paket Meerliebe | kleine Hunde (bis 10 kg)
+Dimension de l'emballage Poids en kg	2.5
+Nombre d'articles dans le colis	4
+Composition
+Votre animal aimera aussi
+Skip Votre animal aimera aussi slider
+This is a stars rating area from zer
 
-===== FICHE 5 : https://www.zooplus.fr/shop/chiens/friandises_chien/chiens_ages/9980012296 =====
-[valeurs] {}
-[bloc analytique]
+===== FICHE 7 =====
+https://www.zooplus.fr/shop/chiens/croquettes_chien_races/races_moyennes/9980009725
+taille body: 9179 | contient 'protéine': True | 'constituant': False | 'composition': True
+valeurs: {}
+extrait autour nutrition:
+(rien trouvé)
 
-[json]
-{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+===== FICHE 8 =====
+https://www.zooplus.fr/shop/chiens/croquettes_chien/adulte/9980002411
+taille body: 10921 | contient 'protéine': True | 'constituant': False | 'composition': True
+valeurs: {}
+extrait autour nutrition:
+ant d’intolérances aux céréales
+✔️ Riche en poulet (14 %) – protéines animales de qualité pour des muscles forts
+✔️ Bouillon de volaille – goût apprécié pour une meilleure appétence
+✔️ FOS & extrait de yucca – soutiennent la flore intestinale et réduisent les odeurs
+✔️ Sans colorants ni conservateurs artificiels
+🥣 Composition :
 
-===== FICHE 6 : https://www.zooplus.fr/shop/chiens/friandises_chien/friandises_sans_cereales_chien/9980062285 =====
-[valeurs] {}
-[bloc analytique]
+Céréales, viandes et dérivés d’origine animale (26 %, dont 14 % de poulet), des huiles et graisses, des extraits de protéines végétales (gluten de maïs), des minéraux, des fructo-oligosaccharides (FOS) (0,2 %) et de l'extrait de yucca.
 
-[json]
-{\"targetLink\":\"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg\",\"linkAriaLabel\":\"Découvrez les offres Royal Canin\",\"desktopImage\":\"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg\",\"desktopImageAltText\":\"20% de réduction sur les petits sacs\",\"mobileImage\"
-
-===== FICHE 7 : https://www.zooplus.fr/shop/chiens/complements_alimentaires_chien/luposan_complements_alimentaires_chien/complement_chien_luposan/1373851 =====
-[valeurs] {}
-[bloc analytique]
-
-[json]
-{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
-
-===== FICHE 8 : https://www.zooplus.fr/shop/chiens/friandises_chien/9980010527 =====
-[valeurs] {}
-[bloc analytique]
-
-[json]
-{"targetLink":"https://www.zooplus.fr/search/results?q=+Royal+Canin\u0026filters=action%3Dhas_abd%3Bprice_reduced\u0026utm-source=utm_source_banner\u0026analytics-id=qp85kbzn8noe-3Ut0SU3hQipJjr5IdiNaVg","linkAriaLabel":"Découvrez les offres Royal Canin","desktopImage":"//images.ctfassets.net/qp85kbzn8noe/3h0pJRGrxD7u7QFF7HlIpB/5c0bcdfe8a482619983187aff4948ceb/2026_07_RC_Offer_C_D_Mycoupon_300x500_FR.jpg","desktopImageAltText":"20% de réduction sur les petits sacs","mobileImage":"//images.ctfasse
+🐾 Analyse nutritionnelle :
+Protéines : 22 %
+Matières grasses : 10 %
+Cendres brutes : 9 %
+Fib
