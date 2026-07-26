@@ -1,97 +1,61 @@
 
-===== FICHE 1 =====
+===== 1 =====
 https://www.zooplus.fr/shop/chiens/pathologies_canines/croquettes_boites_chien_sterilise_castre/9980041672
-taille body: 8412 | contient 'protéine': True | 'constituant': False | 'composition': True
 valeurs: {}
-extrait autour nutrition:
-(rien trouvé)
+(pas de bloc nutrition)
 
-===== FICHE 2 =====
+===== 2 =====
 https://www.zooplus.fr/shop/chiens/friandises_chien/friandises_sans_cereales_chien/9980062320
-taille body: 16604 | contient 'protéine': True | 'constituant': False | 'composition': False
 valeurs: {}
-extrait autour nutrition:
-(rien trouvé)
+(pas de bloc nutrition)
 
-===== FICHE 3 =====
+===== 3 =====
 https://www.zooplus.fr/shop/chiens/friandises_chien/chiens_ages/9980012265
-taille body: 10300 | contient 'protéine': True | 'constituant': False | 'composition': True
 valeurs: {}
-extrait autour nutrition:
-(rien trouvé)
+(pas de bloc nutrition)
 
-===== FICHE 4 =====
+===== 4 =====
 https://www.zooplus.fr/shop/chiens/friandises_chien/friandises_sans_cereales_chien/9980062238
-taille body: 16604 | contient 'protéine': True | 'constituant': False | 'composition': False
 valeurs: {}
-extrait autour nutrition:
-(rien trouvé)
+(pas de bloc nutrition)
 
-===== FICHE 5 =====
+===== 5 =====
 https://www.zooplus.fr/shop/chiens/croquettes_chien/adulte/9980002969
-taille body: 11076 | contient 'protéine': True | 'constituant': False | 'composition': True
 valeurs: {}
-extrait autour nutrition:
-vez un avis
-Croquettes hypoallergéniques sans céréales avec protéines d'insectes pour les chiens souffrant d'allergies et d'intolérances. Facile à digérer et respectueux de l'environnement.Plus d'informations...
-Choisir un article (2 variantes)
- entoVITAL DOG HYPOALLERGENIC pour chiens
-9980002969.2
-29,90 €
-9,97 € / kg
-Ajouter au panier
-Ajouter au panier
+(pas de bloc nutrition)
 
-Vendu et expédié par notre partenaire: HEROSAN healthcare gmbh
-
-Livraison estimée : 2-5 jours ouvrés. Lire la suite
-Conditions de retour Lire la suite
-Tous les prix sont TTC. Des frais de livraison supplémentaires peuvent s’appliquer.
-Articles qui pourraient vous intéresser
-Skip Articles qui pourraient
-
-===== FICHE 6 =====
+===== 6 =====
 https://www.zooplus.fr/shop/chiens/croquettes_chien/adulte/9980063654
-taille body: 9574 | contient 'protéine': True | 'constituant': False | 'composition': True
 valeurs: {}
-extrait autour nutrition:
-s petits chiens (5–10 kg), ce coffret propose une source de protéines d’origine marine et des mâchouilles enrichies en huile de saumon. Origine : Allemagne. Poids total du colis : 2.5 kg.
-Avantages du produit
-Wildfang® nourriture sèche sans céréales au thon | 2kg
-Wildfang® Snacks avec 80% de poisson | 100g
-Wildfang® Bâtonnet à mâcher en bois de caféier, format huile de saumon.
-Wildfang® Bois de cerf rouge avec huile de saumon
-Paket Meerliebe | kleine Hunde (bis 10 kg)
-Dimension de l'emballage Poids en kg	2.5
-Nombre d'articles dans le colis	4
-Composition
-Votre animal aimera aussi
-Skip Votre animal aimera aussi slider
-This is a stars rating area from zer
+(pas de bloc nutrition)
 
-===== FICHE 7 =====
+===== 7 =====
 https://www.zooplus.fr/shop/chiens/croquettes_chien_races/races_moyennes/9980009725
-taille body: 9179 | contient 'protéine': True | 'constituant': False | 'composition': True
 valeurs: {}
-extrait autour nutrition:
-(rien trouvé)
+(pas de bloc nutrition)
 
-===== FICHE 8 =====
+===== 8 =====
 https://www.zooplus.fr/shop/chiens/croquettes_chien/adulte/9980002411
-taille body: 10921 | contient 'protéine': True | 'constituant': False | 'composition': True
-valeurs: {}
-extrait autour nutrition:
-ant d’intolérances aux céréales
-✔️ Riche en poulet (14 %) – protéines animales de qualité pour des muscles forts
-✔️ Bouillon de volaille – goût apprécié pour une meilleure appétence
-✔️ FOS & extrait de yucca – soutiennent la flore intestinale et réduisent les odeurs
-✔️ Sans colorants ni conservateurs artificiels
-🥣 Composition :
-
-Céréales, viandes et dérivés d’origine animale (26 %, dont 14 % de poulet), des huiles et graisses, des extraits de protéines végétales (gluten de maïs), des minéraux, des fructo-oligosaccharides (FOS) (0,2 %) et de l'extrait de yucca.
+valeurs: {'proteines': '22', 'matieres_grasses': '10', 'cendres': '9'}
+xtrait de yucca.
 
 🐾 Analyse nutritionnelle :
 Protéines : 22 %
 Matières grasses : 10 %
 Cendres brutes : 9 %
-Fib
+Fibres brutes : 3 %
+🔬 Additifs nutritionnels (par kg) :
+Vitamine A : 12 000 UI
+Vitamine D₃ : 1 200 UI
+Vitamine E : 110 mg
+Fer : 80 mg
+Cuivre : 10 mg
+Iode : 1,5 mg
+Manganèse : 45 mg
+Sélénium : 0,2 mg
+Zinc (total) : 150 mg
+Zinc chélaté : 18 mg
+Antioxydants
+💬 Avis clients (traduits) :
+⭐ Sophie W.
+« Enfin des croque
