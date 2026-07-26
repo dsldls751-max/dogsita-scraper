@@ -1,0 +1,41 @@
+name: Scrape nutrition Zooplus
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "30 = test, 0 = tout"
+        default: "30"
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Installer
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Scraper
+        env:
+          TEST_LIMIT: ${{ github.event.inputs.limit }}
+        run: python scraper.py
+      - name: Sauvegarder
+        if: always()
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add produits_nutrition.csv state.json || true
+          git commit -m "resultats" || echo "rien"
+          git push || echo "push ko"
+      - name: Telechargement
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: produits_nutrition
+          path: produits_nutrition.csv
+          if-no-files-found: ignore
