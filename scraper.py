@@ -3,15 +3,27 @@ from playwright.sync_api import sync_playwright
 BASE="https://www.maxizoo.fr/c/chien/nourriture-pour-chien/nourriture-seche/"
 MAXPAGES=int(os.environ.get("MAXPAGES","2"))
 OUT="maxizoo_nutrition.csv"; DBG="debug_maxizoo.txt"
-FIELDS=["proteines","matieres_grasses","cellulose","cendres","humidite","calcium","phosphore","sodium"]
-LABELS={"proteines":r"prot[eé]ines?","matieres_grasses":r"mati[eè]res?\s+grasses","cellulose":r"(?:cellulose|fibres?)\s*brutes?","cendres":r"cendres\s*brutes?","humidite":r"humidit[eé]","calcium":r"calcium","phosphore":r"phosphore","sodium":r"sodium"}
+FIELDS=["proteines","matieres_grasses","cellulose","cendres","humidite","calcium","phosphore","sodium","omega_3","omega_6"]
+LABELS={
+ "proteines":r"prot[eé]ines?",
+ "matieres_grasses":r"(?:teneur en )?mati[eè]res?\s+grasses",
+ "cellulose":r"(?:cellulose|fibres?)",
+ "cendres":r"cendres|mati[eè]re inorganique",
+ "humidite":r"humidit[eé]",
+ "calcium":r"calcium",
+ "phosphore":r"phosphore",
+ "sodium":r"sodium",
+ "omega_3":r"om[eé]ga.?3|acides gras om[eé]ga.?3",
+ "omega_6":r"om[eé]ga.?6|acides gras om[eé]ga.?6",
+}
 def clean(raw):
     t=raw.replace("\\u003c","<").replace("\\u003e",">").replace("\\u0026","&").replace("\\/","/")
     t=H.unescape(t); t=re.sub(r"<[^>]+>"," ",t); return re.sub(r"\s+"," ",t)
 def extract(t):
     out={}
     for f,pat in LABELS.items():
-        m=re.search(pat+r"\s*[:=]?\s*(\d+[.,]?\d*)\s*%",t,re.I)
+        # tolère "brutes", "(min.)", "(max.)", "de", ":", "=" entre le mot et le nombre
+        m=re.search(r"(?:"+pat+r")\s*(?:brutes?)?\s*(?:\(min\.?\)|\(max\.?\))?\s*(?:de\s+)?[:=]?\s*(\d+[.,]?\d*)\s*%",t,re.I)
         if m: out[f]=m.group(1).replace(",",".")
     return out
 def main():
@@ -40,25 +52,22 @@ def main():
         for i,url in enumerate(links,1):
             try:
                 page.goto(url,timeout=45000,wait_until="domcontentloaded")
-                page.wait_for_timeout(1000)
-                raw=page.content()          # <-- on lit le CODE, sans cliquer
-                t=clean(raw)
+                page.wait_for_timeout(900)
+                t=clean(page.content())
                 vals=extract(t)
                 nom=(page.title() or "").split("|")[0].strip()
                 mref=re.search(r"R[ée]f\.?\s*art\.?\s*:?\s*(\d+)",t,re.I)
-                mcomp=re.search(r"Composition\s+(.{0,400}?)(?:Teneur|Additifs|Composants|$)",t,re.I)
+                mcomp=re.search(r"Composition\s+(.{0,400}?)(?:Teneur|Additifs|Composants|Rations|$)",t,re.I)
                 w.writerow([nom,mref.group(1) if mref else "",url,(mcomp.group(1).strip() if mcomp else "")]+[vals.get(f,"") for f in FIELDS])
                 fout.flush()
                 if vals.get("proteines"): got+=1
                 if i<=6:
-                    dbg.write(f"\n=== {i} ===\n{nom}\nvaleurs:{vals}\n")
-                    k=re.search(r"composants analytiques|prot[eé]ines?\s*:",t,re.I)
-                    dbg.write((t[max(0,k.start()-20):k.start()+280] if k else "(pas trouvé dans le code)")+"\n"); dbg.flush()
+                    dbg.write(f"\n=== {i} ===\n{nom}\nvaleurs:{vals}\n"); dbg.flush()
                 print(i,"OK" if vals.get("proteines") else "--")
             except Exception as e:
                 print(i,"err",e)
             time.sleep(0.8)
         b.close()
     fout.close(); dbg.close()
-    print("TERMINE. fiches:",len(links),"avec nutrition:",got)
+    print("TERMINE. fiches:",len(links),"avec proteines:",got)
 if __name__=="__main__": main()
