@@ -1,50 +1,48 @@
-PAGE 1: 48 liens produits
-PAGE 2: 48 liens produits
-TOTAL liens uniques: 96
+TOTAL liens: 96
 
-=== FICHE 1 ===
+=== 1 ===
 https://www.maxizoo.fr/p/eukanuba-croquettes-pour-chien-adulte-grande-taille-poulet-15-kg-2249437/
 nom:EUKANUBA croquettes pour chien, adulte, grande taille, Poulet 15 kg
 valeurs:{}
 (pas de nutrition)
 
-=== FICHE 2 ===
+=== 2 ===
 https://www.maxizoo.fr/p/fitfun-croquettes-croc-15-kg-1001097001/
 nom:FIT+FUN Croquettes Croc 15 kg
 valeurs:{}
 (pas de nutrition)
 
-=== FICHE 3 ===
+=== 3 ===
 https://www.maxizoo.fr/p/hills-prescription-diet-derm-complete-12-kg-1349301/
 nom:Hill's Prescription Diet Derm Complete 12 kg
 valeurs:{}
 (pas de nutrition)
 
-=== FICHE 4 ===
+=== 4 ===
 https://www.maxizoo.fr/p/hills-prescription-diet-gastrointestinal-biome-digestivefibre-care-10-kg-1324244/
 nom:Hill's Prescription Diet Gastrointestinal Biome Digestive/Fibre Care 10 kg
 valeurs:{}
 (pas de nutrition)
 
-=== FICHE 5 ===
+=== 5 ===
 https://www.maxizoo.fr/p/hills-prescription-diet-id-croquettes-pour-chiens-adultes-au-poulet-pour-soutenir-la-digestion-4-kg-1376318/
 nom:Hill's Prescription Diet i/d Croquettes pour chiens, Adultes, au poulet pour soutenir la digestion 4 kg
 valeurs:{}
 (pas de nutrition)
 
-=== FICHE 6 ===
+=== 6 ===
 https://www.maxizoo.fr/p/multifit-benissimo-croquettes-chien-adulte-avec-buf--lgumes-12-kg-1013529/
 nom:MultiFit Benissimo Croquettes Chien Adulte, avec Bœuf & Légumes 12 kg
 valeurs:{'calcium': '1.5'}
 (pas de nutrition)
 
-=== FICHE 7 ===
+=== 7 ===
 https://www.maxizoo.fr/p/multifit-croquettes-chien-adulte-maxi-avec-volaille--carotte-12-kg-1001467007/
 nom:MultiFit Croquettes Chien Adulte, Maxi, avec Volaille & Carotte 12 kg
 valeurs:{}
 (pas de nutrition)
 
-=== FICHE 8 ===
+=== 8 ===
 https://www.maxizoo.fr/p/multifit-croquettes-chien-junior-avec-volaille--riz-25-kg-2961806/
 nom:MultiFit Croquettes Chien Junior, avec Volaille & Riz 2,5 kg
 valeurs:{}
