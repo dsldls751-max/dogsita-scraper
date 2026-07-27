@@ -1,10 +1,10 @@
-name: Scrape nutrition Zooplus
+name: Scrape MaxiZoo
 on:
   workflow_dispatch:
     inputs:
-      limit:
-        description: "30 = test, 0 = tout"
-        default: "30"
+      maxpages:
+        description: "Nb de pages (2 = test, 40 = tout)"
+        default: "2"
 permissions:
   contents: write
 jobs:
@@ -22,22 +22,21 @@ jobs:
           python -m playwright install --with-deps chromium
       - name: Scraper
         env:
-          TEST_LIMIT: ${{ github.event.inputs.limit }}
+          MAXPAGES: ${{ github.event.inputs.maxpages }}
         run: python scraper.py
       - name: Sauvegarder
         if: always()
         run: |
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
-          git add produits_nutrition.csv state.json debug.txt || true
-          git commit -m "resultats" || echo "rien"
+          git add maxizoo_nutrition.csv debug_maxizoo.txt || true
+          git commit -m "maxizoo" || echo "rien"
           git push || echo "push ko"
       - name: Telechargement
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: produits_nutrition
+          name: maxizoo
           path: |
-            produits_nutrition.csv
-            debug.txt
-          if-no-files-found: ignore
+            maxizoo_nutrition.csv
+            debug_maxizoo.txt
