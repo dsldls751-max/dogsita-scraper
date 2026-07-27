@@ -1,31 +1,25 @@
-TOTAL liens: 458
+TOTAL liens: 450
 
 === 1 ===
 ACANA Adult Dog 2 kg
-valeurs:{}
- propre et fraîche. Composants analytiques Protéines brutes (min.) 29 % de matières grasses (min.) 17 % de fibres brutes (max.) 5 % de cendres brutes (max.) 7 % d’humidité (max.) 12 % de calcium (min.) 1,3 % de phosphore (min.) 1 % d’acides gras oméga-3 (min.) 1 % d’acides gras oméga-6 (min.) 2,6 % 
+valeurs:{'proteines': '29', 'matieres_grasses': '17', 'cellulose': '5', 'cendres': '7', 'humidite': '12', 'calcium': '1.3', 'phosphore': '1', 'omega_3': '1', 'omega_6': '2.6'}
 
 === 2 ===
 ACANA Adult Small Breed 2 kg
-valeurs:{'proteines': '31', 'matieres_grasses': '17', 'cellulose': '5', 'humidite': '12', 'calcium': '1.4', 'phosphore': '1.1'}
-îche à disposition. Composants analytiques Protéines 31 %, matières grasses 17 %, matière inorganique 7 %, fibres brutes 5 %, humidité 12 %, calcium 1,4 %, phosphore 1,1 %, oméga-6 267 %, oméga-3 1 %, DHA 0,3 %, EPA 0,3 %, glucosamine 1 400 mg/kg, chondroïtine 900 mg/kg Teneur en humidité: 12% Compo
+valeurs:{'proteines': '31', 'matieres_grasses': '17', 'cellulose': '5', 'cendres': '7', 'humidite': '12', 'calcium': '1.4', 'phosphore': '1.1', 'omega_3': '1', 'omega_6': '267'}
 
 === 3 ===
 ACANA Classic Red 9,7 kg
-valeurs:{'matieres_grasses': '16', 'cellulose': '5', 'cendres': '8', 'humidite': '12', 'calcium': '1.6', 'phosphore': '1.1'}
-heure d'exercice) : Composants analytiques Protéines brutes 27 %, Matières grasses 16 %, Cendres brutes 8 %, Fibres brutes 5 %, Humidité 12 %, Calcium 1,6 %, Phosphore 1,1 %, AG Oméga-6 2,2 %, AG Oméga-3 0,3 %, DHA / EPA 0,05 % / 0,05 %. VALEUR CALORIGÈNE (calculée): Énergie métabolisable: 3425 kcal
+valeurs:{'proteines': '27', 'matieres_grasses': '16', 'cellulose': '5', 'cendres': '8', 'humidite': '12', 'calcium': '1.6', 'phosphore': '1.1', 'omega_3': '0.3', 'omega_6': '2.2'}
 
 === 4 ===
 ACANA Croquettes chien Adulte Large Breed 11,4 kg
-valeurs:{'proteines': '31', 'matieres_grasses': '15', 'cellulose': '6', 'cendres': '7', 'humidite': '12', 'calcium': '1.4', 'phosphore': '1.1'}
-îche à disposition. Composants analytiques Protéines 31 %, matières grasses 15 %, cendres brutes 7 %, fibres brutes 6 %, humidité 12 %, calcium 1,4 %, phosphore 1,1 %, oméga-6 2,4 %, oméga-3 1,2 %, DHA 0,35 %, EPA 0,35 %, GLUCOSAMINE, 1 500 mg/kg, CHONDROÏTINE 900 mg/kg Composition Poulet frais déso
+valeurs:{'proteines': '31', 'matieres_grasses': '15', 'cellulose': '6', 'cendres': '7', 'humidite': '12', 'calcium': '1.4', 'phosphore': '1.1', 'omega_3': '1.2', 'omega_6': '2.4'}
 
 === 5 ===
 ACANA Croquettes Chien Puppy Large Breed 17kg
-valeurs:{'proteines': '33', 'matieres_grasses': '15', 'cellulose': '6', 'cendres': '7', 'humidite': '12', 'calcium': '1.4', 'phosphore': '1'}
-ricant EU REG CD 11 Composants analytiques Protéines 33 %, matières grasses 15 %, cendres brutes 7 %, fibres brutes 6 %, humidité 12 %, calcium 1,4 %, phosphore 1 %, oméga-6 2,4 %, oméga-31,2 %, DHA 0,35 %, EPA 0,35 % glucosamine, 1 400 mg/kg chondroïtine 900 mg/kg Composition « Poulet frais désossé
+valeurs:{'proteines': '33', 'matieres_grasses': '15', 'cellulose': '6', 'cendres': '7', 'humidite': '12', 'calcium': '1.4', 'phosphore': '1', 'omega_3': '1.2', 'omega_6': '2.4'}
 
 === 6 ===
 ACANA Croquettes chien Wild Prairie 2 kg
 valeurs:{'humidite': '12'}
-îche à disposition. Composants analytiques Composition","image":["https://media.os.fressnapf.com/products-v2/e/9/0/7/e907743c4e0572c64c9ddb22ac90e2323e8927d7_1256670_0.jpg?t=prod_l","https://media.os.fressnapf.com/products-v2/e/9/0/7/e907743c4e0572c64c9ddb22ac90e2323e8927d7_1256670_0.jpg?t=prod_l","
