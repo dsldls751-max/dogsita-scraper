@@ -1,49 +1,31 @@
 TOTAL liens: 96
 
 === 1 ===
-https://www.maxizoo.fr/p/eukanuba-croquettes-pour-chien-adulte-grande-taille-poulet-15-kg-2249437/
-nom:EUKANUBA croquettes pour chien, adulte, grande taille, Poulet 15 kg
-valeurs:{}
-(pas de nutrition)
+EUKANUBA croquettes pour chien, adulte, grande taille, Poulet 15 kg
+valeurs:{'proteines': '24', 'matieres_grasses': '13', 'cellulose': '2.4', 'cendres': '6.2', 'calcium': '1.2', 'phosphore': '1', 'sodium': '0.34'}
+Numéro de fabricant Composants analytiques Protéines : 24 %, Teneur en matières grasses : 13 %, Acides gras oméga-6 : 2,11 %, Acides gras oméga-3 : 0,29 %, Cendres brutes : 6,2 %, Fibres brutes : 2,4 %, Calcium : 1,2 %, Phosphore : 1 %. Composition poulet frais (20 %), poulet et dinde séchés (19 % d
 
 === 2 ===
-https://www.maxizoo.fr/p/fitfun-croquettes-croc-15-kg-1001097001/
-nom:FIT+FUN Croquettes Croc 15 kg
-valeurs:{}
-(pas de nutrition)
+FIT+FUN Croquettes Croc 15 kg
+valeurs:{'proteines': '20', 'matieres_grasses': '8', 'cellulose': '3', 'cendres': '7.5', 'calcium': '1.5', 'phosphore': '1.3'}
+au potable fraîche. Composants analytiques Protéines 20 %, matières grasses 8 %, cendres brutes 7,5 %, fibres brutes 3 %. Calcium 1,5 %, phosphore 1,3 %. Composition Céréales, viandes et sous-produits animaux, sous-produits d'origine végétale, huiles et graisses, minéraux (0,5 %).","image":["https:/
 
 === 3 ===
-https://www.maxizoo.fr/p/hills-prescription-diet-derm-complete-12-kg-1349301/
-nom:Hill's Prescription Diet Derm Complete 12 kg
-valeurs:{}
-(pas de nutrition)
+Hill's Prescription Diet Derm Complete 12 kg
+valeurs:{'proteines': '15.6', 'matieres_grasses': '14.8', 'cellulose': '1.2', 'cendres': '5.0', 'calcium': '0.66', 'phosphore': '0.55', 'sodium': '0.30'}
+n mixte des adultes Composants analytiques Protéines 15,6 %, matières grasses 14,8 %, fibres brutes 1,2 %, EPA + DHA 0,53 %, acide linoléique 3,5 %, cendres brutes 5,0 %, calcium 0,66 %, phosphore 0,55 %, sodium 0,30 %, potassium 0,78 %, magnésium 0,07 % ; par kg : vitamine A 10 336 UI, vitamine D3 
 
 === 4 ===
-https://www.maxizoo.fr/p/hills-prescription-diet-gastrointestinal-biome-digestivefibre-care-10-kg-1324244/
-nom:Hill's Prescription Diet Gastrointestinal Biome Digestive/Fibre Care 10 kg
-valeurs:{}
-(pas de nutrition)
+Hill's Prescription Diet Gastrointestinal Biome Digestive/Fibre Care 10 kg
+valeurs:{'proteines': '21.4', 'matieres_grasses': '13.3', 'cellulose': '6.9', 'cendres': '6.0', 'calcium': '0.96', 'phosphore': '0.66', 'sodium': '0.36'}
+ds corporel optimal Composants analytiques Protéines 21,4 %, matières grasses 13,3 %, cellulose brute 6,9 %, cendres brutes 6,0 %, calcium 0,96 %, phosphore 0,66 %, sodium 0,36 %, potassium 0,85 %, magnésium 0,10 %. Composition Céréales, viande et sous-produits d’origine animale (9 % poulet), extrai
 
 === 5 ===
-https://www.maxizoo.fr/p/hills-prescription-diet-id-croquettes-pour-chiens-adultes-au-poulet-pour-soutenir-la-digestion-4-kg-1376318/
-nom:Hill's Prescription Diet i/d Croquettes pour chiens, Adultes, au poulet pour soutenir la digestion 4 kg
-valeurs:{}
-(pas de nutrition)
+Hill's Prescription Diet i/d Croquettes pour chiens, Adultes, au poulet pour soutenir la digestion 4 kg
+valeurs:{'proteines': '23.4', 'matieres_grasses': '13.2', 'cellulose': '1.9', 'cendres': '5.6', 'calcium': '0.77', 'phosphore': '0.69', 'sodium': '0.36'}
+’alimentation mixte Composants analytiques Protéines 23,4 %, matières grasses 13,2 %, fibres brutes 1,9 %, cendres brutes 5,6 %, calcium 0,77 %, phosphore 0,69 %, sodium 0,36 %, potassium 0,85 %, magnésium 0,08 % ; par kg : vitamine A 9 299 UI, vitamine D3 719 UI, vitamine E 674 mg, vitamine C 100 m
 
 === 6 ===
-https://www.maxizoo.fr/p/multifit-benissimo-croquettes-chien-adulte-avec-buf--lgumes-12-kg-1013529/
-nom:MultiFit Benissimo Croquettes Chien Adulte, avec Bœuf & Légumes 12 kg
-valeurs:{'calcium': '1.5'}
-(pas de nutrition)
-
-=== 7 ===
-https://www.maxizoo.fr/p/multifit-croquettes-chien-adulte-maxi-avec-volaille--carotte-12-kg-1001467007/
-nom:MultiFit Croquettes Chien Adulte, Maxi, avec Volaille & Carotte 12 kg
-valeurs:{}
-(pas de nutrition)
-
-=== 8 ===
-https://www.maxizoo.fr/p/multifit-croquettes-chien-junior-avec-volaille--riz-25-kg-2961806/
-nom:MultiFit Croquettes Chien Junior, avec Volaille & Riz 2,5 kg
-valeurs:{}
-(pas de nutrition)
+MultiFit Benissimo Croquettes Chien Adulte, avec Bœuf & Légumes 12 kg
+valeurs:{'proteines': '20', 'matieres_grasses': '9', 'cellulose': '3', 'cendres': '7.4', 'calcium': '1.4', 'phosphore': '1'}
+au potable fraîche. Composants analytiques Protéines 20 %, teneur en matières grasses 9 %, cendres brutes 7,4 %, fibres brutes 3 %, calcium 1,4 %, phosphore 1 %. Composition Céréales (dont 10 % de maïs), viandes et sous-produits animaux (dont 4 % de volaille dans la croquette en forme d'os, 4 % de b
