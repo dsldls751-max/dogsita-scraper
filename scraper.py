@@ -1,6 +1,6 @@
 import csv, re, time, os, html as H
 from playwright.sync_api import sync_playwright
-BASE="https://www.maxizoo.fr/c/chien/nourriture-pour-chien/nourriture-seche/"
+BASE="https://www.maxizoo.fr/c/chien/nourriture-pour-chien/"
 MAXPAGES=int(os.environ.get("MAXPAGES","2"))
 OUT="maxizoo_nutrition.csv"; DBG="debug_maxizoo.txt"
 FIELDS=["proteines","matieres_grasses","cellulose","cendres","humidite","calcium","phosphore","sodium","omega_3","omega_6"]
